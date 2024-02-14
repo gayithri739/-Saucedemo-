@@ -1,0 +1,16 @@
+﻿{
+  "Name": "Button_OKButton",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "GuknXwmo6UCL755lL4ZVeA",
+  "Reference": "gUgAN4tYBE-OVV4rPnOybg/GuknXwmo6UCL755lL4ZVeA",
+  "ParentRef": "gUgAN4tYBE-OVV4rPnOybg/OlfIJ3ciZkKZ0VRmrLud7w",
+  "Created": "2024-02-14T07:37:24.7301174Z",
+  "Updated": "2024-02-14T07:37:36.8577762Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
